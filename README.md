@@ -1,1 +1,1 @@
-# VASP-Dean
+# vasp-hpc-control
